@@ -1,6 +1,6 @@
 # Great repository expectations
 
-At this point, all of your module projects and capstones are hosted on Github. This 15 month bootcamp is intense, so now is the time to look back at your repositories and clean them up. While data projects are, by their nature, exploratory, with lots of sketching and exploratory data work, the final product - especially something that sits atop your resume as the first thing you are asking a hiring manager to look at - needs to be clear and clean. 
+At this point, all of your module projects and capstones are hosted on Github. This 15 week bootcamp is intense, so now is the time to look back at your repositories and clean them up. While data projects are, by their nature, exploratory, with lots of sketching and exploratory data work, the final product - especially something that sits atop your resume as the first thing you are asking a hiring manager to look at - needs to be clear and clean. 
 
 Your project repositories allow employers to see the quality of your work before ever speaking with you. They establish your brand as a data scientist. Best practices demonstrated in your repo demonstrate what you are capable of on the job.
 

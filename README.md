@@ -13,12 +13,21 @@ The first things an employer should see in your repository:
 
 ## Learning goals:
 
-In the following lessons you will:
+In the following lessons you will examine both the _format_ and the _content_ of  a few sample repositories and then apply those methods to your own repository in labs.
 
--  Identify key issues within an example, unorganized, data sciencep project  repository
--  Review industry standards and employer expectations for project organization
+### Section 1: Expected repository structure
+
+-  Identify key issues within an example, unorganized, data science project repository
+-  Review **industry standards** and employer expectations for project organization
 -  List steps taken to adjust the samplle repo to align with industry expectations
 -  Use git and terminal commands to adjust your own project repository
 -  Maintain a repository that will showcase your skillset to employers
 
+### Section 2: Skilled project communication
+
+- Identify blockers in the **content** of the project documents themselves
+- Use a checklist to  review the text and organization of the project description and readme
+- Examine the impact of using markdown and commenting code to improve readability
+- Connect the lesson exercises to the growth areas in your project  documentation
+- Use the communication tools learned in this section to revise your own project repository accordingly
 

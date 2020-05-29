@@ -12,7 +12,7 @@ The first things an employer should see in your repository:
 - Your skills in writing about the key concepts encompassing your craft
 - How you target your communication to the expected audience
 
-## Learning goals:
+## Objectives
 
 You will be able to:
 
